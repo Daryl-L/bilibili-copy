@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.top {
+    background-image: url(./img/13e08481fa6d67a9862970cf264240921ef579b4.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 170px;
+}
+
+.top .nav {
+    background: rgba(0, 0, 0, 0.4);
+    position: relative;
+    width: 100%;
+    height:42px;
+}
+
+.top .nav .nav-img {
+    background-image: url(./img/13e08481fa6d67a9862970cf264240921ef579b4.jpg);
+    background-position: center;
+    position: absolute;
+    top: -10px;
+    height: 62px;
+    width: 100%;
+}
